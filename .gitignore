@@ -1,0 +1,6 @@
+#/object/x86/Debug/
+#/object/x86/Release/
+#/object/x64/Debug/
+#/object/x64/Release/
+
+/quicksort/.vs/
